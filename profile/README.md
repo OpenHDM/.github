@@ -1,5 +1,10 @@
 # Hi World 👋
-Hedging Data Machines, trading as HDM, is a Business Intelligence technology company. 
+Hedging Data Machines, trading as HDM, is a Business Intelligence technology company. The base product will be a Customer Relationship Management (CRM) software what will expand to new software, such as SCM, HRM, project and finance management, that will allow for business to quickly scale.
+
+## Contribution Guidelines 
+Currently there is no public repositories. I will notice when there is.
+
+
 
 <!--
 
