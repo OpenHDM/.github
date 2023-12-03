@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi World 👋
+Hedging Data Machines, trading as HDM, is a Business Intelligence technology company. 
 
 <!--
 
